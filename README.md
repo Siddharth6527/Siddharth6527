@@ -68,6 +68,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Siddharth6527/Siddharth6527/output/snake.svg" alt="Snake animation" />
+// img src="https://raw.githubusercontent.com/Siddharth6527/Siddharth6527/output/snake.svg" alt="Snake animation" />
 
 ###
