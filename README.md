@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Siddharth and I'm a  Software Engineer from India.</h2>
+<h2 align="center">Hi 👋! My name is Siddharth Verma, a Software Engineer from India.</h2>
 
 ###
 
