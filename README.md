@@ -1,5 +1,7 @@
 <h2 align="center">Hi 👋! My name is Siddharth Verma, a Software Engineer from India.</h2>
 
+<h3 align="center">Research Intern@DRDO | Ex-Intern@Halonix | Ex-Intern@ITC | MERN Stack | Python | Java | Spring Boot | DSA</h3>
+
 ###
 
 <img align="right" height="150" src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif"  />
